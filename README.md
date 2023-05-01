@@ -1,7 +1,23 @@
 # trainlog
 
-![](/trainlog_front.png)
-![](/trainlog_back.png)
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2">
+        <img src="p1.jpg"/>
+      </td>
+  </tr>
+  <tr>
+      <td>
+        <img src="trainlog_front.png"/>
+      </td>
+      <td>
+        <img src="trainlog_back.png"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Requests/Bahn API
 
