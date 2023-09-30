@@ -27,6 +27,14 @@ captive portal
 ICE API
 https://iceportal.de/api1/rs/status
 
+## Requests/Bahn API
+
+captive portal
+curl https://10.101.64.10/en/ -H "Host: wifi.bahn.de" -kv -X POST -d login=true -d accept -d CSRFToken=fuck -H "Cookie: csrf=fuck"
+
+ICE API
+https://iceportal.de/api1/rs/status
+
 ## License
 
 Copyright Jana Marie Hemsing 2022.

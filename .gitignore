@@ -3,5 +3,10 @@ fp-info-cache
 trainlog.kicad_prl
 bom
 gerber
+<<<<<<< HEAD
 test
 
+=======
+*.save
+test
+>>>>>>> 6032185 (updated files)
